@@ -1,0 +1,20 @@
+# Shell
+*.sh
+
+# C/CPP
+*.o
+*.h.gch
+
+# Python
+*.pyc
+
+# Other
+*.exe
+*.obj
+*.out
+
+# VSCode
+.vscode/
+
+# Qt
+*.pro.user
